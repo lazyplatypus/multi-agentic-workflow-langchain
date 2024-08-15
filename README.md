@@ -1,4 +1,4 @@
-## Agentic Workflows for a Fifth Grader: An example with LangChain
+## Three's the Charm: Multi Agentic Workflow with LangChain and LangGraph
 
 This tutorial outlines how to build a three-agent workflow (researcher, editor, and writer) that produces a blog utilizing LangChain, LangGraph, and the Cererbras API.
 
