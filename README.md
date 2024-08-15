@@ -1,8 +1,8 @@
-## Crypto Agentic Workflows: LangChain
+## Agentic Workflows for a Fifth Grader: An example with LangChain
 
-This tutorial outlines the setup, code structure, and the implementation of a simple agentic workflow using Cerebras and LlamaIndex.
+This tutorial outlines the setup, code structure, and the implementation of a simple agentic workflow using Cerebras and LangChain.
 
-![finished product](./alienMath.png)
+<!-- ![finished product](./alienMath.png) -->
 
 ### Step 1: Set up your API Key
 
@@ -25,6 +25,4 @@ Run the command `streamlit run main.py` to start up the frontend.
 
 ---
 
-https://docs.llamaindex.ai/en/stable/understanding/agent/basic_agent/
-
-will have to implement custom LLM when product is ready: https://docs.llamaindex.ai/en/stable/module_guides/models/llms/usage_custom/
+https://python.langchain.com/v0.1/docs/use_cases/tool_use/quickstart/#agents
