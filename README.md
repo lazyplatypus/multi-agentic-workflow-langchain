@@ -6,7 +6,7 @@ This tutorial outlines how to build a three-agent workflow (researcher, editor, 
 
 ### Step 1: Set up your API Keys
 
-1. **Obtain Your API Keys**: Log in to your Cerebras account, navigate to the “API Keys” section, and generate a new API key. Do the same with the Tavily API.
+1. **Obtain Your API Keys**: Log in to your Cerebras account, navigate to the “API Keys” section, and generate a new API key. Do the same with the [Tavily API](https://app.tavily.com/home).
 
 2. **Set the API Keys in the Sidebar**: Once you have the Cerebras API key and Tavily API key, add them to the sidebar on the left.
 
