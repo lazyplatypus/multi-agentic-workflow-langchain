@@ -1,14 +1,14 @@
 ## Agentic Workflows for a Fifth Grader: An example with LangChain
 
-This tutorial outlines the setup, code structure, and the implementation of a simple agentic workflow using Cerebras and LangChain.
+This tutorial outlines how to build a three-agent workflow (researcher, editor, and writer) that produces a blog utilizing LangChain, LangGraph, and the Cererbras API.
 
 <!-- ![finished product](./alienMath.png) -->
 
-### Step 1: Set up your API Key
+### Step 1: Set up your API Keys
 
-1. **Obtain Your API Key**: Log in to your Cerebras account, navigate to the “API Keys” section, and generate a new API key.
+1. **Obtain Your API Keys**: Log in to your Cerebras account, navigate to the “API Keys” section, and generate a new API key. Do the same with the Tavily API.
 
-2. **Set the API Key in the Sidebar**: Once you have the Cerebras API key, add it to the sidebar on the left.
+2. **Set the API Keys in the Sidebar**: Once you have the Cerebras API key and Tavily API key, add them to the sidebar on the left.
 
 ### Step 2: Install the Cerebras Inference Library
 
@@ -25,4 +25,4 @@ Run the command `streamlit run main.py` to start up the frontend.
 
 ---
 
-https://python.langchain.com/v0.1/docs/use_cases/tool_use/quickstart/#agents
+https://medium.com/indiciumtech/how-to-build-a-multi-agent-content-development-team-using-langgraph-d062ce4051c3
